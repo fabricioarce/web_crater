@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" fill="none">
+<defs>
+<linearGradient id="body" x1="263" y1="0" x2="367" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#94ABC6"/><stop offset=".36" stop-color="#F4F7FC"/><stop offset=".62" stop-color="#FFF"/><stop offset="1" stop-color="#899FB9"/></linearGradient>
+<linearGradient id="nose" x1="286" y1="88" x2="350" y2="226" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF8D6"/><stop offset=".55" stop-color="#E2EAF5"/><stop offset="1" stop-color="#A7BAD3"/></linearGradient>
+<linearGradient id="fin" x1="234" y1="491" x2="304" y2="612" gradientUnits="userSpaceOnUse"><stop stop-color="#BFD7F5"/><stop offset="1" stop-color="#28496D"/></linearGradient>
+<linearGradient id="exhaust" x1="320" y1="611" x2="320" y2="741" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF8D6"/><stop offset=".3" stop-color="#BFD7F5" stop-opacity=".6"/><stop offset="1" stop-color="#BFD7F5" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<g transform="rotate(22 320 380)">
+<path d="M304 605Q280 657 320 741Q360 657 336 605" fill="url(#exhaust)" filter="url(#glow)"/>
+<path d="M309 607Q301 654 320 693Q339 654 331 607" fill="url(#exhaust)"/>
+<path d="M290 488L240 565V618L293 584Z" fill="url(#fin)" stroke="#D0E0F5" stroke-opacity=".5"/>
+<path d="M350 488L400 565V618L347 584Z" fill="url(#fin)" stroke="#D0E0F5" stroke-opacity=".5"/>
+<path d="M290 216H350V562L340 607H300L290 562Z" fill="url(#body)"/>
+<path d="M290 216Q289 153 320 75Q351 153 350 216Z" fill="url(#nose)"/>
+<path d="M290 221H350M290 229H350" stroke="#003052" stroke-opacity=".7" stroke-width="2"/>
+<path d="M290 335H350V370H290Z" fill="#00143D"/>
+<path d="M290 346H350V354H290Z" fill="#A30000"/>
+<path d="M290 354H350V359H290Z" fill="#FFF8D6"/>
+<path d="M290 479H350V489H290Z" fill="#003052"/>
+<path d="M298 576H343L340 607H300Z" fill="#003052"/>
+<path d="M307 607H333V615H307Z" fill="#BFD7F5"/>
+<path d="M320 497L328 563L322 622L315 611L314 564Z" fill="#E4EDFA" stroke="#8BA7C8"/>
+<path d="M306 250V306M305 391V455" stroke="#FFF" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="320" cy="270" r="6" fill="#003052"/>
+<circle cx="320" cy="270" r="3" fill="#BFD7F5"/>
+<text x="320" y="425" text-anchor="middle" fill="#003052" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" transform="rotate(-90 320 425)">C R A T E R</text>
+<path d="M293 529H311M330 529H347" stroke="#003052" stroke-opacity=".25"/>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+{
+  "nombre": "CRATER",
+  "nombreCompleto": "Costa Rican Aerospace Team for Experimental Rocketry",
+  "descripcion": "Somos un equipo universitario costarricense que transforma la curiosidad en ingeniería aeroespacial. Diseñamos, construimos y aprendemos juntos.",
+  "ubicacion": "Costa Rica",
+  "logo": "/logo.jpeg",
+  "modoDemo": true,
+  "avisoDemo": "Sitio en modo demostración. Los proyectos, hitos, integrantes, cifras y productos son ejemplos, no información oficial del equipo.",
+  "email": "",
+  "redes": [],
+  "navegacion": [
+    { "nombre": "Inicio", "ruta": "/" },
+    { "nombre": "Trayectoria", "ruta": "/trayectoria" },
+    { "nombre": "Equipo", "ruta": "/equipo" },
+    { "nombre": "Proyectos", "ruta": "/proyectos" },
+    { "nombre": "Patrocinadores", "ruta": "/patrocinadores" },
+    { "nombre": "Merch", "ruta": "/merch" }
+  ],
+  "hero": {
+    "etiqueta": "Ingeniería con los pies en Costa Rica",
+    "titulo": "La próxima frontera",
+    "tituloAcento": "empieza aquí.",
+    "descripcion": "Somos CRATER. Un equipo universitario que convierte grandes preguntas en cohetes, y el trabajo en equipo en nuevas posibilidades.",
+    "accionPrincipal": "Explora nuestros proyectos",
+    "accionSecundaria": "Conoce al equipo",
+    "nota": "Una misma pasión. Un cielo de posibilidades.",
+    "ilustracion": "/images/cohete.svg"
+  },
+  "inicio": {
+    "etiqueta": "01 / Nuestra esencia",
+    "titulo": "No solo construimos cohetes. Construimos lo que viene.",
+    "descripcion": "Creemos en aprender haciendo. Reunimos distintas disciplinas para explorar la cohetería experimental, compartir conocimiento e inspirar a una nueva generación de talento costarricense.",
+    "pilares": [
+      { "numero": "01", "titulo": "Diseñar con propósito", "descripcion": "De la primera idea al modelo: cada decisión es una oportunidad para aprender." },
+      { "numero": "02", "titulo": "Construir en equipo", "descripcion": "Conectamos perspectivas y habilidades para resolver retos reales de ingeniería." },
+      { "numero": "03", "titulo": "Mirar más alto", "descripcion": "La curiosidad nos impulsa a experimentar, mejorar y compartir el camino." }
+    ],
+    "proyectosEtiqueta": "02 / Del papel al cielo",
+    "proyectosTitulo": "Ideas que toman vuelo.",
+    "proyectosDescripcion": "Un vistazo a los proyectos que nos hacen aprender, iterar y seguir mirando hacia arriba.",
+    "alianzaEtiqueta": "El siguiente paso lo damos juntos",
+    "alianzaTitulo": "Tu apoyo puede llevarnos más lejos.",
+    "alianzaDescripcion": "Buscamos aliados que crean en la educación, la innovación y el potencial aeroespacial de Costa Rica. Seamos parte de la misma misión.",
+    "alianzaAccion": "Sé parte de la misión"
+  },
+  "pie": {
+    "lema": "Hecho de curiosidad. Impulsado por equipo.",
+    "nota": "Desde Costa Rica, mirando más allá."
+  }
+}

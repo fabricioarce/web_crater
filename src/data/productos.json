@@ -1,0 +1,46 @@
+{
+  "encabezado": {
+    "etiqueta": "Lleva la misión contigo",
+    "titulo": "El espíritu CRATER, fuera del laboratorio.",
+    "descripcion": "Diseños para quienes también miran hacia arriba. Explora nuestra colección de ejemplo: esto es un catálogo, no una tienda con pagos en línea."
+  },
+  "moneda": "CRC",
+  "locale": "es-CR",
+  "nota": "Productos, precios y disponibilidad de demostración. No se aceptan pedidos ni pagos desde esta web.",
+  "categorias": ["Camisetas", "Sudaderas", "Accesorios"],
+  "items": [
+    {
+      "id": "camiseta-mision",
+      "nombre": "Camiseta Misión",
+      "categoria": "Camisetas",
+      "precio": 12000,
+      "descripcion": "Camiseta azul oscuro con un diseño conceptual inspirado en nuestra identidad. Un básico para el día a día, dentro y fuera del taller.",
+      "tallas": ["XS", "S", "M", "L", "XL"],
+      "imagen": "/images/camiseta.svg",
+      "imagenAlt": "Ilustración de una camiseta azul oscuro con la palabra CRATER",
+      "disponibilidad": "Próximamente"
+    },
+    {
+      "id": "sudadera-orbita",
+      "nombre": "Sudadera Órbita",
+      "categoria": "Sudaderas",
+      "precio": 24000,
+      "descripcion": "Sudadera de diseño conceptual con capucha, bolsillo frontal y espíritu explorador. Para las ideas que llegan cuando cae la noche.",
+      "tallas": ["S", "M", "L", "XL"],
+      "imagen": "/images/sudadera.svg",
+      "imagenAlt": "Ilustración de una sudadera celeste con capucha",
+      "disponibilidad": "Próximamente"
+    },
+    {
+      "id": "stickers-explora",
+      "nombre": "Stickers Explora",
+      "categoria": "Accesorios",
+      "precio": 2500,
+      "descripcion": "Un conjunto conceptual de stickers para acompañar tus cuadernos, tu computadora y tu próxima gran idea.",
+      "tallas": ["Única"],
+      "imagen": "/images/stickers.svg",
+      "imagenAlt": "Ilustración de tres stickers de temática aeroespacial",
+      "disponibilidad": "Próximamente"
+    }
+  ]
+}

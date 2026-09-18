@@ -1,0 +1,20 @@
+{
+  "encabezado": {
+    "etiqueta": "Alianzas que impulsan",
+    "titulo": "El futuro se construye con buenos aliados.",
+    "descripcion": "Buscamos organizaciones y personas que quieran impulsar el talento universitario, la educación y el desarrollo aeroespacial costarricense."
+  },
+  "vacioTitulo": "Este espacio espera a nuestros primeros aliados.",
+  "vacioDescripcion": "Todavía no contamos con patrocinadores. Nos encantaría construir una colaboración que haga crecer al equipo y conecte a tu organización con nuevas ideas.",
+  "categoriasTitulo": "Hay muchas formas de ser parte.",
+  "notaCategorias": "Propuesta inicial de categorías. Los aportes y beneficios son ejemplos y se acordarán directamente con cada aliado.",
+  "categorias": [
+    { "id": "impulso", "nombre": "Impulso", "nivel": "01", "descripcion": "Pequeños aportes que abren grandes posibilidades.", "aporte": "Materiales, servicios o apoyo puntual", "beneficios": ["Reconocimiento en nuestra web", "Vinculación con proyectos estudiantiles"] },
+    { "id": "orbita", "nombre": "Órbita", "nivel": "02", "descripcion": "Acompaña el desarrollo de una idea de principio a fin.", "aporte": "Apoyo a un proyecto o subsistema", "beneficios": ["Presencia destacada en la web", "Espacios para compartir conocimiento", "Actualizaciones del proyecto apoyado"] },
+    { "id": "horizonte", "nombre": "Horizonte", "nivel": "03", "descripcion": "Una alianza de largo alcance para construir el futuro.", "aporte": "Apoyo estratégico y sostenido al equipo", "beneficios": ["Visibilidad como aliado principal", "Colaboración en iniciativas académicas", "Encuentros de intercambio con el equipo"] }
+  ],
+  "items": [],
+  "contactoTitulo": "Conversemos sobre lo que podemos lograr.",
+  "contactoDescripcion": "Cada alianza es diferente. Queremos encontrar una forma de colaborar que tenga sentido para ambas partes.",
+  "contactoPendiente": "Pronto publicaremos nuestro canal oficial de contacto."
+}

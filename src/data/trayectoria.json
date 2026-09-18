@@ -1,0 +1,15 @@
+{
+  "encabezado": {
+    "etiqueta": "Nuestra bitácora",
+    "titulo": "Los grandes viajes empiezan con una idea.",
+    "descripcion": "Cada encuentro, prueba y nuevo reto deja algo que aprender. Esta línea de tiempo de demostración muestra cómo contaremos nuestra historia real."
+  },
+  "hitos": [
+    { "id": "idea-inicial", "fecha": "2023-03-01", "categoria": "Equipo", "titulo": "Una pregunta nos reúne", "descripcion": "Ejemplo de hito fundacional: un grupo de estudiantes se reúne para imaginar un proyecto de cohetería universitaria.", "lugar": "Costa Rica · ejemplo" },
+    { "id": "primer-diseno", "fecha": "2024-06-01", "categoria": "Desarrollo", "titulo": "Del cuaderno al primer diseño", "descripcion": "Ejemplo de fase de diseño: se conectan las áreas de estructuras, electrónica y gestión alrededor de un concepto común.", "lugar": "Laboratorio · ejemplo" },
+    { "id": "encuentro-academico", "fecha": "2025-08-01", "categoria": "Competencia", "titulo": "Compartir para llegar más lejos", "descripcion": "Participación ficticia en un encuentro estudiantil. Este espacio se reemplazará por competencias reales, sus resultados y aprendizajes.", "lugar": "Encuentro universitario · ejemplo" },
+    { "id": "siguiente-capitulo", "fecha": "2026-04-01", "categoria": "Desarrollo", "titulo": "Una nueva etapa de integración", "descripcion": "Ejemplo de avance de proyecto: pruebas de subsistemas y preparación de una nueva plataforma de aprendizaje.", "lugar": "Costa Rica · ejemplo" }
+  ],
+  "cierreTitulo": "La historia se sigue escribiendo.",
+  "cierreDescripcion": "Lo más importante no es solo hasta dónde llegamos, sino todo lo que aprendemos en el camino. Descubre los proyectos del siguiente capítulo."
+}

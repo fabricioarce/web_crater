@@ -1,0 +1,28 @@
+{
+  "encabezado": {
+    "etiqueta": "Muchas disciplinas. Una misión.",
+    "titulo": "El verdadero impulso es nuestra gente.",
+    "descripcion": "Detrás de cada idea hay personas que comparten lo que saben y se atreven a aprender algo nuevo. Conoce cómo podría organizarse el equipo."
+  },
+  "estadisticas": [
+    { "valor": "24", "etiqueta": "Mentes curiosas", "detalle": "Integrantes · cifra de ejemplo" },
+    { "valor": "6", "etiqueta": "Disciplinas conectadas", "detalle": "Áreas académicas · ejemplo" },
+    { "valor": "3", "etiqueta": "Ideas en desarrollo", "detalle": "Proyectos de demostración" },
+    { "valor": "1", "etiqueta": "Misma dirección", "detalle": "Aprender mirando más alto" }
+  ],
+  "liderazgoTitulo": "Personas que conectan al equipo.",
+  "liderazgoDescripcion": "Perfiles ficticios para visualizar la dirección del equipo y la gestión de proyectos. Sustitúyelos por información autorizada de los integrantes.",
+  "miembros": [
+    { "id": "ana-demo", "nombre": "Ana Rodríguez", "rol": "Líder del equipo", "area": "Ingeniería mecánica", "bio": "Conecta las distintas áreas y acompaña la visión general del equipo. Perfil de ejemplo.", "foto": "", "grupo": "Liderazgo" },
+    { "id": "diego-demo", "nombre": "Diego Vargas", "rol": "Líder técnico", "area": "Ingeniería eléctrica", "bio": "Acompaña la integración técnica y el aprendizaje entre disciplinas. Perfil de ejemplo.", "foto": "", "grupo": "Liderazgo" },
+    { "id": "sofia-demo", "nombre": "Sofía Mora", "rol": "Project Manager · Irazú 01", "area": "Ingeniería industrial", "bio": "Organiza objetivos, recursos y entregas para que las ideas sigan avanzando. Perfil de ejemplo.", "foto": "", "grupo": "Project managers" },
+    { "id": "andres-demo", "nombre": "Andrés Solano", "rol": "Project Manager · Órbita", "area": "Ingeniería en computación", "bio": "Coordina el desarrollo de la plataforma de aviónica y telemetría. Perfil de ejemplo.", "foto": "", "grupo": "Project managers" }
+  ],
+  "areasTitulo": "Distintas perspectivas, mejores soluciones.",
+  "areas": [
+    { "nombre": "Estructuras", "descripcion": "Diseño mecánico, materiales e integración." },
+    { "nombre": "Aviónica", "descripcion": "Electrónica, programación y datos." },
+    { "nombre": "Recuperación", "descripcion": "Sistemas para el regreso de cada misión." },
+    { "nombre": "Gestión y comunicación", "descripcion": "Personas, alianzas y nuevas conexiones." }
+  ]
+}

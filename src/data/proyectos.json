@@ -1,0 +1,58 @@
+{
+  "encabezado": {
+    "etiqueta": "Ingeniería en movimiento",
+    "titulo": "Del primer boceto al siguiente horizonte.",
+    "descripcion": "Cada proyecto es una pregunta que respondemos diseñando, construyendo y trabajando juntos. Esta es nuestra plataforma de aprendizaje."
+  },
+  "estados": ["En diseño", "En construcción", "En pruebas", "Completado"],
+  "items": [
+    {
+      "id": "irazu-01",
+      "nombre": "Irazú 01",
+      "tipo": "Cohetería experimental",
+      "estado": "En construcción",
+      "descripcion": "Nuestro concepto de cohete de aprendizaje: una plataforma para integrar estructuras, aviónica y recuperación. Proyecto ficticio para mostrar el catálogo.",
+      "imagen": "/images/cohete.svg",
+      "imagenAlt": "Ilustración conceptual de un cohete blanco con aletas azules",
+      "anio": "2026",
+      "destacado": true,
+      "especificaciones": [
+        { "etiqueta": "Enfoque", "valor": "Integración" },
+        { "etiqueta": "Etapa", "valor": "Prototipo" },
+        { "etiqueta": "Equipo", "valor": "Multidisciplinario" }
+      ]
+    },
+    {
+      "id": "orbita",
+      "nombre": "Órbita",
+      "tipo": "Aviónica y telemetría",
+      "estado": "En pruebas",
+      "descripcion": "Un sistema conceptual para registrar y visualizar datos de vuelo. Un ejemplo de cómo presentamos los proyectos más allá del cohete.",
+      "imagen": "/images/avionica.svg",
+      "imagenAlt": "Ilustración de una placa de aviónica y sus conexiones",
+      "anio": "2026",
+      "destacado": true,
+      "especificaciones": [
+        { "etiqueta": "Enfoque", "valor": "Telemetría" },
+        { "etiqueta": "Etapa", "valor": "Validación" },
+        { "etiqueta": "Equipo", "valor": "Aviónica" }
+      ]
+    },
+    {
+      "id": "tenorio",
+      "nombre": "Tenorio",
+      "tipo": "Investigación y desarrollo",
+      "estado": "En diseño",
+      "descripcion": "Concepto de plataforma modular para explorar nuevas soluciones de recuperación. Datos de ejemplo pendientes de sustituir por un proyecto real.",
+      "imagen": "/images/cohete.svg",
+      "imagenAlt": "Ilustración conceptual de una plataforma de cohetería",
+      "anio": "2027",
+      "destacado": false,
+      "especificaciones": [
+        { "etiqueta": "Enfoque", "valor": "Recuperación" },
+        { "etiqueta": "Etapa", "valor": "Concepto" },
+        { "etiqueta": "Equipo", "valor": "Investigación" }
+      ]
+    }
+  ]
+}
